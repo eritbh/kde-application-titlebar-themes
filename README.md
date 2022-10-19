@@ -2,6 +2,10 @@
 
 A set of application-specific KDE titlebar themes that match the titlebar's colors to the rest of the application's UI without giving up the full native titlebar.
 
+![](.github/preview.png)
+
+## Installing and Using
+
 Titlebar themes are provided as `.colors` files which can be downloaded and placed in `~/.local/share/color-schemes`.
 
 To apply a color scheme to a window, first create a window rule in one of two ways:
