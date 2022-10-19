@@ -6,4 +6,4 @@ The Linux version of Vivado uses the native titlebar.
 
 Used for the default Vivado theme.
 
-![](vivado%20default.png)
+![](default.png)
