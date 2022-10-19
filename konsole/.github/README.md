@@ -6,4 +6,4 @@ Konsole is a KDE application and uses the native titlebar.
 
 Used for the built-in "Dark Pastels" theme.
 
-![](/.github/konsole%20pastel%20dark.png)
+![](pastel%20dark.png)

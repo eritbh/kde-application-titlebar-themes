@@ -8,10 +8,10 @@ Earlier versions of Obsidian did not have an option for this; CSS tweaks or plug
 
 Used for the dark variant of the default theme in Obsidian 1.0.
 
-![](/.github/obsidian%20dark.png)
+![](default%20dark.png)
 
 ## `Obsidian Light.colors`
 
 Used for the light variant of the default theme in Obsidian 1.0.
 
-![](/.github/obsidian%20light.png)
+![](default%20light.png)
