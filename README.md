@@ -52,3 +52,7 @@ Many applications which draw their own custom titlebars on other platforms give 
 Note that if the application presents its own non-native menu bar, KDE does not have a way to hide that. You will have to check the specific application for an option to hide the baked-in titlebar, or use other tweaks (e.g. some Electron-based applications allow you to apply CSS to the UI, which can usually be used to hide the bar).
 
 If special tweaks like this are required to make an application present a native titlebar or hide the baked-in titlebar, they'll be noted.
+
+## License
+
+[CC0 - Public Domain](/LICENSE)
