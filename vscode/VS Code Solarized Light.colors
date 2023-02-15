@@ -1,7 +1,5 @@
 [WM]
-activeBackground=238, 232, 213
-activeBlend=51, 51, 51
-activeForeground=51, 51, 51
-inactiveBackground=240, 236, 225
-inactiveBlend=127, 125, 121
-inactiveForeground=127, 125, 121
+activeBackground=238,232,213
+activeForeground=51,51,51
+inactiveBackground=240,236,225
+inactiveForeground=127,125,121
