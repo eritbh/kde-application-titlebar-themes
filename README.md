@@ -8,6 +8,7 @@ A set of application-specific KDE Plasma titlebar themes that match the titlebar
 
 - [1Password](/1password)
 - [Discord](/discord)
+- [GIMP](/gimp)
 - [Konsole](/konsole)
 - [Obsidian](/obsidian)
 - [Slack](/slack)
