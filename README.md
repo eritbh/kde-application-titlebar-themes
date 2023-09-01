@@ -10,6 +10,7 @@ A set of application-specific KDE Plasma titlebar themes that match the titlebar
 - [Discord](/discord)
 - [GIMP](/gimp)
 - [Konsole](/konsole)
+- [Microsoft Teams](/teams)
 - [Obsidian](/obsidian)
 - [Slack](/slack)
 - [Vivado](/vivado)
