@@ -56,6 +56,10 @@ Note that if the application presents its own non-native menu bar, KDE does not 
 
 If special tweaks like this are required to make an application present a native titlebar or hide the baked-in titlebar, they'll be noted.
 
+## Other caveats
+
+These color schemes will only work with window decorations that actually support changing the titlebar color based on the current color scheme. If you're using a custom window decoration, it may not support using color scheme colors at all, in which case this repo won't be useful to you. See [this KDE Discuss thread](https://discuss.kde.org/t/titlebar-color-change/17231/14) for more information about the interaction between window decorations, color schemes, and custom application styles.
+
 ## License
 
 [CC0 - Public Domain](/LICENSE)
