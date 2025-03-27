@@ -47,7 +47,7 @@ If you store your dotfiles in version control, this is a useful file to track al
 
 Under Xorg, you can use the `xprop` command to find the window class of any window. Run `xprop WM_CLASS` in your terminal, then click on the window you want to identify.
 
-Wayland doesn't use `xprop`, so the way you get information about windows will vary from system to system. If you're using GNOME, you might start with [this SuperUser answer](https://unix.stackexchange.com/a/435159).
+Wayland doesn't use `xprop`, so the way you get information about windows will vary from system to system. [This reddit post](https://www.reddit.com/r/kde/comments/1c447nc/anything_like_xprop_in_wayland_to_get_window/) lists a handful of strategies you can use, the most straightforward being to open the KWin debug console or using the command `qdbus6 org.kde.KWin /KWin queryWindowInfo` and looking for the `resourceClass` of the target window.
 
 ### Forcing applications to use a native titlebar
 
