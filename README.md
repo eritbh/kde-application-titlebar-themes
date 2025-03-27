@@ -17,6 +17,7 @@ A set of application-specific KDE Plasma titlebar themes that match the titlebar
 - [Spotify](/spotify)
 - [Vivado](/vivado)
 - [Visual Studio Code](/vscode)
+- [XIVLauncher](/xivlauncher)
 
 Want a theme for another application? [Request it!](https://github.com/eritbh/kde-application-titlebar-themes/issues/new?template=theme-request.md)
 
