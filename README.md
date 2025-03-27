@@ -23,7 +23,11 @@ Want a theme for another application? [Request it!](https://github.com/eritbh/kd
 
 ## Installing and Using
 
-Titlebar themes are provided as `.colors` files which can be downloaded and placed in `~/.local/share/color-schemes`. Window rules can then be used to apply titlebar themes to specific applications.
+Titlebar themes are provided as `.colors` files which can be downloaded and placed in `~/.local/share/color-schemes`.
+
+Alternatively, this repository contains a `.stowrc` for use with [`stow`](https://www.gnu.org/software/stow/) (`apt install stow`, etc). Clone this repository somewhere persistent, then use `stow` from the repo root to automatically link the desired themes into `~/.local/share/color-schemes`. For example, you can install all the color schemes for Apple Music, Discord, and Slack all at once with `stow apple-music discord slack`. See [the `stow` manual](https://www.gnu.org/software/stow/manual/stow.html) for more information about this installation method.
+
+Once you've installed the themes you want, window rules can then be used to apply titlebar themes to specific applications.
 
 ### Configuring via GUI
 
