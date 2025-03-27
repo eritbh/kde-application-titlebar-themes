@@ -13,6 +13,7 @@ A set of application-specific KDE Plasma titlebar themes that match the titlebar
 - [Microsoft Teams](/teams)
 - [Obsidian](/obsidian)
 - [Slack](/slack)
+- [Spotify](/spotify)
 - [Vivado](/vivado)
 - [Visual Studio Code](/vscode)
 
