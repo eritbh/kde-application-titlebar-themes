@@ -39,7 +39,7 @@ Once you have a rule for the application, add the property "Titlebar color schem
 
 ### Configuring directly in `kwinrulesrc`
 
-Window rules are stored in `~/.config/kwinrulesrc` and you can edit this file manually if you want. You can find an example [in my personal dotfiles repo](https://github.com/eritbh/dotfiles/blob/main/kde/.config/kwinrulesrc).
+Window rules are stored in `~/.config/kwinrulesrc` and you can edit this file manually if you want. You can find an example [in my (old, potentially outdate) personal dotfiles repo](https://github.com/eritbh/dotfiles/blob/main/kde/.config/kwinrulesrc).
 
 If you store your dotfiles in version control, this is a useful file to track alongside your `~/.local/share/color-schemes` folder to sync your application-specific titlebar theme configurations across computers.
 
