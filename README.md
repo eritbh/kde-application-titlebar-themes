@@ -29,7 +29,7 @@ Alternatively, this repository contains a `.stowrc` for use with [`stow`](https:
 
 Once you've installed the themes you want, window rules can then be used to apply titlebar themes to specific applications.
 
-### Configuring via GUI
+### Configuring window rules via GUI
 
 There are two ways to create a window rule via a GUI:
 
@@ -41,7 +41,7 @@ Once you have a rule for the application, add the property "Titlebar color schem
 
 ![](.github/kde%20window%20properties.png)
 
-### Configuring directly in `kwinrulesrc`
+### Configuring window rules directly in `kwinrulesrc`
 
 Window rules are stored in `~/.config/kwinrulesrc` and you can edit this file manually if you want. You can find an example [in my (old, potentially outdate) personal dotfiles repo](https://github.com/eritbh/dotfiles/blob/main/kde/.config/kwinrulesrc).
 
