@@ -7,6 +7,7 @@ A set of application-specific KDE Plasma titlebar themes that match the titlebar
 ## Supported applications
 
 - [1Password](/1password)
+- [Apple Music](/apple-music)
 - [Discord](/discord)
 - [GIMP](/gimp)
 - [Konsole](/konsole)
