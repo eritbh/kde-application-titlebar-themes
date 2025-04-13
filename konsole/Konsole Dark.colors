@@ -1,6 +1,5 @@
 [WM]
 activeBackground=34,37,38
-activeForeground=237,239,233
+activeForeground=255,255,255
 inactiveBackground=39,41,44
-inactiveForeground=237,239,233
-
+inactiveForeground=255,255,255
